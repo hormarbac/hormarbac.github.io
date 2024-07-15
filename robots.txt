@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hormarbac.github.io/sitemap
+Sitemap: https://hormarbac.github.io/app/sitemap
+Sitemap: https://hormarbac.github.io/assets/sitemap
+Sitemap: https://hormarbac.github.io/css/sitemap
+Sitemap: https://hormarbac.github.io/includes/sitemap
+Sitemap: https://hormarbac.github.io/item/sitemap
+Sitemap: https://hormarbac.github.io/src/sitemap
